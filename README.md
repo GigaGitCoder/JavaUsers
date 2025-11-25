@@ -221,7 +221,7 @@ Authorization: Bearer <admin_jwt_token>
 - JWT token must be passed in the `Authorization: Bearer <token>` header for protected endpoints
 - Search fields support partial matching (case-insensitive)
 
-# Localizations
+## Localizations
 
 - [Русский](./README-files/README_RU.md)
 - [中文](./README-files/README_ZH.md)
